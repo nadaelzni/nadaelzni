@@ -12,4 +12,4 @@ I am interested about machine learning, applied mathematics, and software develo
 * **Concepts:** Machine Learning Classification, Object-Oriented Programming, Low-level Memory Management
 
 ### 📫 Let's Connect!
-* [LinkedIn] https://www.linkedin.com/in/nada-el-azzouni/
+* [LinkedIn] https://www.linkedin.com/in/nadaelazzouni/
