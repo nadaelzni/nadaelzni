@@ -4,7 +4,7 @@ Hi there, I'm Nada 👋
 
 🎓 **BSc in Artificial Intelligence @ PSL University (Paris)**
 
-I am interested about machine learning, applied mathematics, and software development. I enjoy building predictive models, optimizing algorithms, and exploring data to extract meaningful insights. 
+I am interested in machine learning, applied mathematics, and software development. I enjoy building predictive models, optimizing algorithms, and exploring data to extract meaningful insights. 
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, C, C++, SQL
